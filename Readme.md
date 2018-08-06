@@ -17,3 +17,9 @@
 # 新闻[more](news.md)
 
 > yey! I've started a blog on github , how awesome !
+
+# 任务
+* [ ] 开篇
+* [ ] 转发公众号
+* [ ] Laravel 相关的一片文章
+* [ ] 写一片关于工作经历的文章
