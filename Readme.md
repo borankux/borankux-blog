@@ -16,4 +16,4 @@
 
 # 新闻[more](news.md)
 
-yey! I've started a blog on github , how awesome !
+> yey! I've started a blog on github , how awesome !
