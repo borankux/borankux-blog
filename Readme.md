@@ -14,6 +14,9 @@
 - 工具
 - 经理
 - 想法
+- 任务介绍
+	- Michio Kaku
+	- Simon Sineks
 
 # 新闻[more](news.md)
 
