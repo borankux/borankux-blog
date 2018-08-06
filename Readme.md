@@ -13,8 +13,7 @@
 - 工具
 - 经理
 - 想法
-- 新闻
 
-# 新闻
+# 新闻[more](news.md)
 
 yey! I've started a blog on github , how awesome !
