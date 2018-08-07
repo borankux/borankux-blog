@@ -14,7 +14,7 @@
 - 工具
 - 经理
 - 想法
-- 任务介绍
+- 人物介绍
 	- Michio Kaku
 	- Simon Sineks
 
