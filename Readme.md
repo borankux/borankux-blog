@@ -7,23 +7,77 @@
 
 # 目录
 - 主题
-- 技术
+	- 游戏
+	- 电影
+	- 英语
+	- 物理学
+	- 数学
+	- 人工智能
+	- 物联网
+	- 区块链
+	- 电工技术
+- 框架
 	- [laravel](laravel.md)
-- 工程
+	- Flask
+	- Electron
+	- Yii2
+	- Django
+	- itchat
+- 知识
+	- Android
+	- Web
+	- Electron
+	- Game
+	- 项目管理
+	- iOS
+	- libGdx 游戏开发
+	- 微信小程序
+	- 微信公众号
+	- 爬虫
+	- 单元测试
+	- 自动化
+	- Linux
 - 语言
+	- PHP
+	- Python
+	- Java
+	- JavaScript
+	- C/C++
+	- Go
+	- Swift
 - 工具
-- 经理
+	- Composer
+	- Git
+	- Npm
+	- Docker
+	- VirtualBox
+- 数据库
+	- MySQL
+	- Redis
+- 经历
+	- 大学
+	- 求职
+	- 租房
+	- 创业
+	- 资金
+	- 上海
 - 想法
+	- Universe
+	- String Theory
 - 人物介绍
 	- Michio Kaku
 	- Simon Sineks
+	- Elon Mask
 
 # 新闻[more](news.md)
 
 > yey! I've started a blog on github , how awesome !
 
-# 任务
-* [ ] 开篇
-* [ ] 转发公众号
-* [ ] Laravel 相关的一片文章
-* [ ] 写一片关于工作经历的文章
+# 文章列表
+* [ ] Laravel 简介
+* [ ] Composer 使用技巧
+* [ ] php单元测试
+* [ ] Docker 简介
+* [ ] Docker 进阶
+* [ ] Github
+* [ ] Github 优秀的仓库
