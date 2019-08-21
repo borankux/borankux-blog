@@ -8,3 +8,8 @@
 ### 
 > I have decided to keep going with the blog.so, what next ?
 ---
+
+2019-08-21 11:00
+###
+> Yea I have been stopt for like 3 month now.
+---
