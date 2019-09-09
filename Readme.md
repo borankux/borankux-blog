@@ -6,23 +6,103 @@
 	- 电影
 		- MCU
 			- Avengers
+				- Ironman
+				- Spiderman
+				- Thor
+				- Hulk
+				- Black Panther
+				- Hawk Eye
+				- Black widow
+				- Ant man
+				- War machine
+				- Doctor strange
+				- Vision
+				- Scarlet witch
+				- Thanos
+				- Star loard
+				- Rocket
 		- DC
 			- Justice League
+				- Batman
+				- Superman
+				- Flash
+				- Cyborg
+				- Aquaman
+				- Wonder woman
+				- Joker
+				- HarleyQueen
+				- Robin
+				- Batwoman
+				- Catwoman
+				- Penguin
+				- Riddler
+				- Two face
+				- Atom
+				- Rashagul
+				- Doomsday
+				- General Zood
 	- 英语
 		- 口语
 		- 书籍
 	- 物理学
 		- 应用物理学
+		- 天文物理学
+		- 两字物理学
+		- 流体动力
+		- 空气动力
 	- 数学
 		- 概率论
+		- 线性代数
+		- 离散数学
+		- 代数
+		- 几何
 	- 人工智能
 		- 基础知识
+			- 神经网络
+			- 模型
 		- 原理剖析
 		- 资源
+			- Tensorflow
 		- 应用
 	- 物联网
 		- 硬件基础
+			- 数电
+				- 逻辑
+				- 门电路
+				- 集成电路
+			- 模电
+				- 元件
+					- 二极管
+					- 三极管
+					- 电容
+					- 电阻
+					- 电感
+					- 场效应管
+					- 电源
+				- 电平
+				- 滤波
+				- 传感器
+					- 光传感器
+					- 温度传感器
+					- 颜色传感器
+					- 音频传感器
+					- 震动传感器
+					- 红外线传感器
+					- 超声波传感器
+					- 湿度传感器
+					- 压力传感器
+					- 角速度传感器
+					- 编码器
+			- 网络
+				- 局域网
+				- 4G
 		- 应用
+		- 开发板
+			- 树莓派
+			- 51单片机
+			- STM
+			- Arm
+			- Arduino
 	- 区块链
 		- 介绍
 			- 区块链违法吗？
@@ -43,6 +123,18 @@
 			- 数据库选型心得
 			- 缓存不在神秘
 			- 请再别乱写你熟悉Redis 和 Memcache
+			- 数据库
+				- MySQL
+				- Redis
+				- Memcached
+				- MongoDB
+				- MSSQL
+				- Oracle
+				- Hive
+				- HBase
+				- Sqlite
+				- Access
+				- WebSQL
 		- Web
 			- 其实你不懂Web
 			- 不起眼的Http协议
@@ -67,6 +159,7 @@
 			- Kafka
 			- RabbitMQ
 			- AWS MQ
+			- MQTT
 		- 第三方资源
 			- 微信/支付宝杂谈
 			- 地图是个好东西
@@ -86,6 +179,14 @@
 			- 代码规范
 			- 项目规范
 			- 工作流
+			- 团队协作方式
+				- Kanban
+				- Scrump
+				- 敏捷开发
+			- 工具
+				- Jira
+				- Jenkins
+				- CI/CD
 		- 业界人才储备
 			- Golang的为难
 - 框架
@@ -95,11 +196,31 @@
 	- Yii2
 	- Django
 	- itchat
+	- Express
+	- Flask
+	- Tornado
+	- SpringBoot
+	- Struts
+	- Mybatis
+	- Gene
+
 - 知识
 	- Android
+		- 四大组件
+		- UI
+		- Fragment
+		- Servcie
+		- Sqlite
+		- 网络通信
 	- Web
 	- Electron
 	- Game
+		- 引擎
+		- 开发工具
+			- Cocos2D
+			- UnrealEngine
+			- Unity
+			- Flash Air
 	- 项目管理
 	- iOS
 	- libGdx 游戏开发
@@ -109,12 +230,18 @@
 	- 单元测试
 	- 自动化
 	- Linux
+		- Kali Linux
+			- AirngCrack
+			- Nmap
+			- Sqlimap
+			- Metasploit
 - 语言
 	- PHP
 	- Python
 	- Java
 	- JavaScript
-	- C/C++
+	- C
+	- C++
 	- Go
 	- Swift
 	- Perl
@@ -122,6 +249,10 @@
 	- Nodejs
 	- Assembly
 	- 易语言
+	- Lua
+	- Erlang
+	- Rubey
+
 - 工具
 	- Composer
 	- Git
@@ -130,6 +261,8 @@
 	- VirtualBox
 	- brew
 	- telnet
+	- gem
+
 - 数据库
 	- MySQL
 	- Redis
@@ -146,7 +279,6 @@
 	- 资金
 	- 上海
 	- 乌鲁木齐
-	
 - 想法
 	- Universe
 	- String Theory
@@ -156,16 +288,21 @@
 	- Loosing weight
 	- People
 	- Life
+	- Love
+	- Marrage
+	- Aliens
 	
 - 人物介绍
 	- Michio Kaku
 	- Simon Sineks
 	- Elon Mask
+	- Neil Dglass Tyson
+	- Linus
 
 # 新闻[more](news.md)
 
 > yey! I've started a blog on github , how awesome !
-
+>【2019-09-10 01:19:21】 Yet another late update.
 # 文章列表
 * [ ] Laravel 简介
 * [ ] Composer 使用技巧
